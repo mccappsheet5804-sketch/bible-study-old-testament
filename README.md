@@ -1,6 +1,5 @@
 # bible-study-old-testament
 ## Deepseek
-- Prompt:
 ```
 # 要求
 ## 目的
